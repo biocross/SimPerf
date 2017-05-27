@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <SimPerf.h>
 #import <objc/runtime.h>
-#import <AspectsHooks/AspectsHooks-Swift.h>
+#import <SimPerf/SimPerf-Swift.h>
 
 @implementation SimpPerf: NSObject
 +(void)load {
