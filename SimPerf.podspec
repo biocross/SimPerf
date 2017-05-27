@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "SimpPerf"
+  s.name         = "SimPerf"
   s.version      = "0.0.1"
   s.summary      = "A short description of AspectsHooks."
   s.description  = 'This is the description of the pod. this is just for test purposes.'
