@@ -8,7 +8,6 @@ Pod::Spec.new do |s|
   s.author       = { "Chirag Ramani" => "chirag.ramani7@gmail.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/chiragramani/AspectsHooks.git", :tag => "#{s.version}" }
-  s.source_files  = "AspectsHooks/*"
+  s.source_files  = "SimPerf/*"
   s.dependency "Aspects"
-  s.dependency "RxSwift"
 end
