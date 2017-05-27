@@ -73,5 +73,4 @@ extension AspectsEnvironment {
             delegateClass.hook(#selector(UIApplicationDelegate.applicationDidBecomeActive(_:)), type: .afterSelector)
         }
     }
-    
 }
